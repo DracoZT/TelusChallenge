@@ -1,0 +1,107 @@
+[
+    {
+        "id": "January 1,2015",
+        "name": "Electricity",
+        "price": "$30"
+    },
+    {
+        "id": "Febuary 3,2015",
+        "name": "Electricity",
+        "price": "$25"
+    },
+    {
+        "id": "March 3,2015",
+        "name": "Electricity",
+        "price": "$23"
+    },
+    {
+        "id": "April 2,2015",
+        "name": "Water",
+        "price": "$13"
+    },
+    {
+        "id": "June 1,2015",
+        "name": "Water",
+        "price": "$14"
+    },
+    {
+        "id": "July 3,2015",
+        "name": "Electricity",
+        "price": "$25"
+    },
+    {
+        "id": "August 2,2015",
+        "name": "Water",
+        "price": "$16"
+    },
+    {
+        "id": "September 2,2015",
+        "name": "Electricity",
+        "price": "$27"
+    },
+    {
+        "id": "October 1,2015",
+        "name": "Electricity",
+        "price": "$38"
+    },
+    {
+        "id": "November 1,2015",
+        "name": "Water",
+        "price": "$19"
+    },
+    {
+        "id": "December 2,2015",
+        "name": "Water",
+        "price": "$10"
+    },
+    {
+        "id": "January 1,2016",
+        "name": "Electricity",
+        "price": "$21"
+    },
+    {
+        "id": "Febuary 2,2016",
+        "name": "Water",
+        "price": "$22"
+    },
+    {
+        "id": "March 3,2016",
+        "name": "Electricity",
+        "price": "$23"
+    },
+    {
+        "id": "April 1,2016",
+        "name": "Electricity",
+        "price": "$21"
+    },
+    {
+        "id": "May 1,2016",
+        "name": "Electricity",
+        "price": "$25"
+    },
+    {
+        "id": "June 1,2016",
+        "name": "Water",
+        "price": "$16"
+    },
+    {
+        "id": "July 2,2016",
+        "name": "Electricity",
+        "price": "$20"
+    },
+    {
+        "id": "August 1,2016",
+        "name": "Water",
+        "price": "$18"
+    },
+    {
+        "id": "September 1,2016",
+        "name": "Electricity",
+        "price": "$19"
+    },
+    {
+        "id": "October 2,2015",
+        "name": "Water",
+        "price": "$13"
+    }
+]
